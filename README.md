@@ -1,2 +1,2 @@
-# Ft_irc
-implémentation d'un petit serveur IRC
+# ft_irc
+A little implementation of an irc server
